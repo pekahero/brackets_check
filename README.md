@@ -1,3 +1,3 @@
 # brackets_check
-Program for running one function.
+Program is one function and main function to use it.
 Function checks if brackets in string match correctly.
